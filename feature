@@ -1,1 +1,1 @@
-feature 2
+feature from feature 2
