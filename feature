@@ -1,1 +1,1 @@
-conflict new
+feature 2
